@@ -20,7 +20,6 @@ Customer_Feedback_Analysis/
 
 │── Customer Feedback Analysis Presentation.pptx # Project presentation
 
-│── customer_feedback_images/ # Extracted images for README visualizations.
 
 
 ---
@@ -70,7 +69,7 @@ mysql -u root -p < SQLQuery.sql
 
 
 
-
+---
 📜 License
 This project is licensed under the MIT License.
 
